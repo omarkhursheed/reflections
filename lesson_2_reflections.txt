@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+It becomes a git repository, that is, the git metadata is now part of the repository. This is necessary to use the file as a git repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It is different because it stores files before they are actually commited to the repo from the working directory. It allows us to be completely sure of a commit before we actually make it.
