@@ -13,3 +13,7 @@ By comparing the contents of the staging area and the repository using git diff 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 Adding a new experimental feature, or remmaking the project completely, while keeping access to the original code.
+
+How do the diagrams help you visualize the branch structure?
+
+They help me see which commits are unreachable as well as the general history of the commits.
