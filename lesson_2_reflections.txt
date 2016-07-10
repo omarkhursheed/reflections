@@ -8,4 +8,8 @@ It is different because it stores files before they are actually commited to the
 
 How can you use the staging area to make sure you have one commit per logical change?
 
-By comparing the contents of the staging area and the repository using git diff --staged
+By comparing the contents of the staging area and the repository using git diff --staged.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Adding a new experimental feature, or remmaking the project completely, while keeping access to the original code.
