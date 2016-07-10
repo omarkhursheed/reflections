@@ -17,3 +17,7 @@ Adding a new experimental feature, or remmaking the project completely, while ke
 How do the diagrams help you visualize the branch structure?
 
 They help me see which commits are unreachable as well as the general history of the commits.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+It makes the commits of the branches combine upto the point where the two branches diverged.
