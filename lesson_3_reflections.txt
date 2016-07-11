@@ -13,3 +13,7 @@ Forks are basically clones on GitHub. You use them to get different repos from G
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 If you're not going to have internet access for a while, then it would be very useful to have the latest version of a remote stored locally.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+It would be harder because I couldn't fork or use pull requests. I would probably rely on email to share code instead of using repos that are accessible by everyone working on the prohject.
