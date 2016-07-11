@@ -17,3 +17,7 @@ If you're not going to have internet access for a while, then it would be very u
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 It would be harder because I couldn't fork or use pull requests. I would probably rely on email to share code instead of using repos that are accessible by everyone working on the prohject.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+To build experimental features. I could later merge.
