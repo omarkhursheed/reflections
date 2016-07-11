@@ -21,3 +21,7 @@ They help me see which commits are unreachable as well as the general history of
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 It makes the commits of the branches combine upto the point where the two branches diverged.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic merging saves time but always doing merges manually prevents merge conflicts.
